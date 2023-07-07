@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Function sum_mixed_list: takes list as arg and returns their sum
 as float

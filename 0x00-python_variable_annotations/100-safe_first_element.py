@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Augment with correct duck-typed annotations
 Function safe_first_element: returns first elem
 or none

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Annotate element_length function
 Has lst as arg and return the values of the list"""
 

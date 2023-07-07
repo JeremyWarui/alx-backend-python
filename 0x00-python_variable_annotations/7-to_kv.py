@@ -1,11 +1,11 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Function to_kv: takes str k and an int or float v
 return tuple
 """
 
 
-from typing import List, Union, Tuple
+from typing import Union, Tuple
 
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
